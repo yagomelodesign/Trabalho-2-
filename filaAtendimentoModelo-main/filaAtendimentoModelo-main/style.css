@@ -1,0 +1,100 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f4f4f4;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+  }
+  
+  .container {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	background-color: #ffffff;
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .jumbotron {
+	background-color: #2e86de;
+	color: #ffffff;
+	border-radius: 5px;
+	padding: 20px;
+	margin-bottom: 20px;
+  }
+  
+  .lista {
+	margin-top: 20px;
+  }
+  
+  .formulario {
+	margin-top: 20px;
+  }
+  
+  .form-group {
+	margin-bottom: 20px;
+  }
+  
+  .label {
+	font-weight: bold;
+	color: #2e86de;
+  }
+  
+  .txt {
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #dcdcdc;
+	border-radius: 5px;
+  }
+  
+  .botoes {
+	margin-top: 20px;
+  }
+  
+  .botao {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .botao-primary {
+	background-color: #2e86de;
+	color: #ffffff;
+  }
+  
+  .botao-primary:hover {
+	background-color: #1a65d9;
+  }
+  
+  .botao-success {
+	background-color: #27ae60;
+	color: #ffffff;
+  }
+  
+  .botao-success:hover {
+	background-color: #219653;
+  }
+  
+  .botao-warning {
+	background-color: #f39c12;
+	color: #ffffff;
+  }
+  
+  .botao-warning:hover {
+	background-color: #d18e0d;
+  }
+  
+  .footer {
+	margin-top: 50px;
+	background-color: #2e86de;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0;
+	border-radius: 5px;
+  }
+  
+  .labelFooter {
+	font-size: 14px;
+  }
